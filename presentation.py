@@ -26,8 +26,8 @@ class ProtoBufVisualization(Slide):
         
         # Highlight serialization challenge
         challenge_text = Text("Serialization Challenge", font_size=24, color=RED).to_corner(UL)
-        self.play(Write(challenge_text))
-        self.wait(2)
+        self.play(Write(challenge_text), run_time=1.5)
+        self.wait(1)
         
         # Animate object passing from Service A to Service B
         object_circle = Circle(radius=0.2, fill_color=WHITE, fill_opacity=1, color=BLUE).move_to(service_a.get_center())

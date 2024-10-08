@@ -54,12 +54,11 @@ The benefits are clear:
 
 [Slide 9: Deployment Tool Engine]
 
-We're also focusing on streamlining our deployment process. Our new Deployment Tool Engine will reduce the number of DLLs necessary for each service, leading to lighter, more efficient deployments.
+We're also focusing on streamlining our deployment process. Our new Deployment Tool Engine aims to build a C# tool that automates actions around the Docker deployment of Orchestrade. The first phase involves developing the actual engine, which will significantly reduce the number of DLLs necessary for each service, leading to lighter, more efficient deployments.
 
 [Slide 10: Deployment Tool UI]
 
-Complementing this, we're developing a new Deployment Tool UI to simplify the deployment process, making it more intuitive and less error-prone.
-
+Complementing this, we're developing a new Deployment Tool UI to simplify the deployment process, making it more intuitive and less error-prone. This UI will enhance user experience and facilitate smoother interactions with the deployment engine, ensuring that our deployment processes are as efficient as possible.
 ## Current Archi and Containers
 
 [Slide 11: Orchestrade Architecture Diagram]
@@ -108,6 +107,39 @@ Beyond deployment, containerization offers other benefits for Orchestrade:
 4. Easier Updates: We can update individual components (like the Risk Server/Grid) without affecting the entire system.
 
 In conclusion, the move to Docker represents a significant step forward in Orchestrade's technology stack. It not only improves our deployment process but also enhances the overall flexibility, scalability, and efficiency of our platform.
+
+## Automated Performance Analysis
+
+[Slide 16: Automated Performance Analysis Overview]
+
+In our ongoing efforts to enhance system performance, we are developing an Automated Performance Analysis tool. This tool will load historical performance data to conduct in-depth analysis.
+
+[Slide 17: Key Features]
+
+The key features of this tool include:
+
+1. **Historical Data Loading**: The system will automatically load historical performance data for analysis.
+2. **Performance Spotting**: It will identify periods when the system experienced slower performance, allowing us to pinpoint potential issues.
+3. **User and Application Strain Detection**: The tool will analyze data to determine if specific applications or users are putting undue strain on the system, enabling proactive management.
+
+[Slide 18: Benefits of Automated Performance Analysis]
+
+The benefits of implementing this tool are significant:
+
+1. **Proactive Issue Resolution**: By identifying performance bottlenecks early, we can address issues before they impact users.
+2. **Data-Driven Insights**: The analysis will provide valuable insights into system performance trends, helping us make informed decisions.
+3. **Enhanced User Experience**: Ultimately, this tool will contribute to a smoother and more efficient user experience by ensuring optimal system performance.
+
+[Slide 19: Next Steps]
+
+As we move forward, we will focus on:
+
+1. Finalizing the design and architecture of the Automated Performance Analysis tool.
+2. Conducting thorough testing with historical data to validate its effectiveness.
+3. Rolling out the tool to our clients and gathering feedback for continuous improvement.
+
+This initiative is a crucial part of our commitment to delivering a high-performance platform for our users.
+
 
 ## Conclusion
 

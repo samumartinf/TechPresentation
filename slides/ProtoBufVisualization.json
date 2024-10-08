@@ -1,0 +1,29 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides\\files\\ProtoBufVisualization\\aea2a542602a599fe329f1d1abbb5120c704c93f4c19706e73635834cb6b28e4.mp4",
+      "rev_file": "slides\\files\\ProtoBufVisualization\\aea2a542602a599fe329f1d1abbb5120c704c93f4c19706e73635834cb6b28e4_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides\\files\\ProtoBufVisualization\\5478c83af941d13fe2c3decfadcb9851d67fbd8591db7486d9a3d82bdcdbffc6.mp4",
+      "rev_file": "slides\\files\\ProtoBufVisualization\\5478c83af941d13fe2c3decfadcb9851d67fbd8591db7486d9a3d82bdcdbffc6_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

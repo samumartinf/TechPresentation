@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/samum/Documents/TechPresentation/media/videos/presentation/1080p60/partial_movie_files/TechRoadmapPresentation/3977891868_1003343556_223132457.mp4'
+file 'file:C:/Users/samum/Documents/TechPresentation/media/videos/presentation/1080p60/partial_movie_files/TechRoadmapPresentation/2852726489_1704852926_476626042.mp4'
+file 'file:C:/Users/samum/Documents/TechPresentation/media/videos/presentation/1080p60/partial_movie_files/TechRoadmapPresentation/2852726489_2353142565_3287566333.mp4'
+file 'file:C:/Users/samum/Documents/TechPresentation/media/videos/presentation/1080p60/partial_movie_files/TechRoadmapPresentation/2852726489_1704852926_3992748967.mp4'
+file 'file:C:/Users/samum/Documents/TechPresentation/media/videos/presentation/1080p60/partial_movie_files/TechRoadmapPresentation/2852726489_3694427521_731550149.mp4'
+file 'file:C:/Users/samum/Documents/TechPresentation/media/videos/presentation/1080p60/partial_movie_files/TechRoadmapPresentation/2852726489_1704852926_2902215007.mp4'
+file 'file:C:/Users/samum/Documents/TechPresentation/media/videos/presentation/1080p60/partial_movie_files/TechRoadmapPresentation/2852726489_687340254_1413821380.mp4'
+file 'file:C:/Users/samum/Documents/TechPresentation/media/videos/presentation/1080p60/partial_movie_files/TechRoadmapPresentation/2852726489_1704852926_2800438236.mp4'

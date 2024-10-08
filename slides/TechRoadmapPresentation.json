@@ -1,0 +1,49 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides\\files\\TechRoadmapPresentation\\a3e2bfca15cebe3690f30a111d3d76e7a1baca22814e0dbf775e9525d37a0319.mp4",
+      "rev_file": "slides\\files\\TechRoadmapPresentation\\a3e2bfca15cebe3690f30a111d3d76e7a1baca22814e0dbf775e9525d37a0319_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides\\files\\TechRoadmapPresentation\\7d616cf34a61686794fad70c2e2dac1d8ec6269d7f6d3cd16ca928be9698135a.mp4",
+      "rev_file": "slides\\files\\TechRoadmapPresentation\\7d616cf34a61686794fad70c2e2dac1d8ec6269d7f6d3cd16ca928be9698135a_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides\\files\\TechRoadmapPresentation\\5972ae41d2df542bf7cc721010ee9609e3469881b2039b0a006cebe089109095.mp4",
+      "rev_file": "slides\\files\\TechRoadmapPresentation\\5972ae41d2df542bf7cc721010ee9609e3469881b2039b0a006cebe089109095_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides\\files\\TechRoadmapPresentation\\0df145e6881fcbe340b076ee696d6faa51d6cd5567b52e57127c82e31b0377fa.mp4",
+      "rev_file": "slides\\files\\TechRoadmapPresentation\\0df145e6881fcbe340b076ee696d6faa51d6cd5567b52e57127c82e31b0377fa_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    854,
+    480
+  ],
+  "background_color": "black"
+}

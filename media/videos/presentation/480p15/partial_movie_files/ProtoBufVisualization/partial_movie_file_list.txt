@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/samum/Documents/TechPresentation/media/videos/presentation/480p15/partial_movie_files/ProtoBufVisualization/1185818338_2576905994_223132457.mp4'
+file 'file:C:/Users/samum/Documents/TechPresentation/media/videos/presentation/480p15/partial_movie_files/ProtoBufVisualization/624642324_1958660936_251407246.mp4'
+file 'file:C:/Users/samum/Documents/TechPresentation/media/videos/presentation/480p15/partial_movie_files/ProtoBufVisualization/624642324_3489303047_1786662069.mp4'
+file 'file:C:/Users/samum/Documents/TechPresentation/media/videos/presentation/480p15/partial_movie_files/ProtoBufVisualization/624642324_1141282389_731282466.mp4'
+file 'file:C:/Users/samum/Documents/TechPresentation/media/videos/presentation/480p15/partial_movie_files/ProtoBufVisualization/624642324_2659938543_501490642.mp4'
+file 'file:C:/Users/samum/Documents/TechPresentation/media/videos/presentation/480p15/partial_movie_files/ProtoBufVisualization/624642324_1721815894_1819930861.mp4'
+file 'file:C:/Users/samum/Documents/TechPresentation/media/videos/presentation/480p15/partial_movie_files/ProtoBufVisualization/624642324_1141282389_2518061575.mp4'

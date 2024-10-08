@@ -1,35 +1,6 @@
 from manim import *
 from manim_slides import Slide
 
-# class TechRoadmapPresentation(Slide):
-#     def construct(self):
-#         # Slide 1: Title
-#         self.next_slide()
-#         title = Text("Orchestrade Technology Roadmap")
-#         self.play(Write(title))
-#         self.wait()
-
-#         # Slide 2: Current Architecture Overview
-#         self.next_slide()
-#         current_architecture = Text("Current Architecture Overview")
-#         self.play(Transform(title, current_architecture))
-#         self.wait()
-
-#         # Slide 3: Serialization Challenge Visualization
-#         self.next_slide()
-#         challenge = Text("Serialization Challenge Visualization")
-#         self.play(Transform(title, challenge))
-#         self.wait()
-
-#         # Add more slides following the same pattern
-#         # ...
-
-#         # Final Slide: Roadmap Summary
-#         self.next_slide()
-#         summary = Text("Roadmap Summary")
-#         self.play(Transform(title, summary))
-#         self.wait()
-
 class ProtoBufVisualization(Slide):
     def construct(self):
         # Slide: Serialization Challenge Visualization

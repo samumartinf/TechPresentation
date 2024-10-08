@@ -2,3 +2,51 @@
 /.vscode
 /test.ipynb
 /__pycache__
+
+
+# Start Generation Here
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# Manim generated files
+media/
+slides/
+*.mp4
+*.webm
+*.avi
+*.gif
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Sphinx documentation
+docs/_build/
+docs/source/_static/
+docs/source/_templates/
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Other
+*.log
+*.DS_Store
+# End Generation Here

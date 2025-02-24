@@ -7,6 +7,7 @@
       "reversed_playback_rate": 1.0,
       "notes": "",
       "dedent_notes": true,
+      "skip_animations": false,
       "file": "slides\\files\\ProtoBufVisualization\\db00b96f3bf067ea3553df43643436ce1705cc59c33a3887f6042cdb6d3e3b38.mp4",
       "rev_file": "slides\\files\\ProtoBufVisualization\\db00b96f3bf067ea3553df43643436ce1705cc59c33a3887f6042cdb6d3e3b38_reversed.mp4"
     },
@@ -17,6 +18,7 @@
       "reversed_playback_rate": 1.0,
       "notes": "",
       "dedent_notes": true,
+      "skip_animations": false,
       "file": "slides\\files\\ProtoBufVisualization\\655452abccb79c2374b99b06d480fd295ca713efc8666c9bc5253c125646eec0.mp4",
       "rev_file": "slides\\files\\ProtoBufVisualization\\655452abccb79c2374b99b06d480fd295ca713efc8666c9bc5253c125646eec0_reversed.mp4"
     }
